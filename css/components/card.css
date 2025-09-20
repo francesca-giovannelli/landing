@@ -5,7 +5,7 @@
 
 .card {
 	flex: 1 1 320px;
-	padding: 40px;
+	padding: 25px;
 	display: flex;
 	align-items: center;
 	justify-content:space-between;
@@ -17,7 +17,7 @@
 }
 
 .card img {
-	width: 200px;
+	width: 180px;
 	border-radius: 6px;
 }
 
