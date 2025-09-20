@@ -4,6 +4,7 @@
 }
 
 .card {
+	flex: 1 1 320px;
 	padding: 40px;
 	display: flex;
 	align-items: center;
